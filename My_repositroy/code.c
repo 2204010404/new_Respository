@@ -2,7 +2,9 @@
 
 int main(void){
 
-printf("test code");
+printf("code1");
+printf("code2");
+printf("code3");
 
 retur 0;
 }
